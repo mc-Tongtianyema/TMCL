@@ -1,0 +1,8 @@
+# TMCL launcher dependencies
+PyQt5>=5.15.0
+pillow>=8.0.0
+requests>=2.25.0
+pyyaml>=6.0
+semver>=2.13.0
+pyinstaller>=5.0.0
+colorlog>=6.6.0
